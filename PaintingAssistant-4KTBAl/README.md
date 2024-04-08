@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Project Summary
 This project is an image prompt generator with an AI assistant. The assistant generates a prompt based off user selected parameters: style, mood and theme. Then you can generate an image based off the prompt provided by the AI assistant.
 
-## Project Puropose
+## Project Purpose
 Build a simple web app to learn about AI assistants and image generation.
 
 ## Sample Screenshot
